@@ -21,3 +21,4 @@ makeCacheMatrix <- function(x = matrix()) {
      x$setmean(i) 
      i 
  } 
+## This is the code from the assignment instruction modified accordingly for Matrix
